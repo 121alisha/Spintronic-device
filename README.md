@@ -1,0 +1,1 @@
+# Spintronic-device
